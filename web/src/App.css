@@ -1,0 +1,24 @@
+.App {
+  margin: 30px;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+video {
+  margin-top: 10px;
+  max-width: 888.88889px;
+  min-width: 888.88889px;
+  min-height: 500px;
+  max-height: 500px;
+}
+
+button {
+  margin-right: 5px;
+}
+
+.url {
+  min-width: 400px;
+}
